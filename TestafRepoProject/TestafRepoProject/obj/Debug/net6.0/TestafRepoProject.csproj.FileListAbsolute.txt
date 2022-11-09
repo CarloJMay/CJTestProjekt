@@ -1,0 +1,15 @@
+C:\Users\Carl Johan Maychrzak\source\repos\TestOfCloning\TestafRepoProject\TestafRepoProject\bin\Debug\net6.0\TestafRepoProject.exe
+C:\Users\Carl Johan Maychrzak\source\repos\TestOfCloning\TestafRepoProject\TestafRepoProject\bin\Debug\net6.0\TestafRepoProject.deps.json
+C:\Users\Carl Johan Maychrzak\source\repos\TestOfCloning\TestafRepoProject\TestafRepoProject\bin\Debug\net6.0\TestafRepoProject.runtimeconfig.json
+C:\Users\Carl Johan Maychrzak\source\repos\TestOfCloning\TestafRepoProject\TestafRepoProject\bin\Debug\net6.0\TestafRepoProject.dll
+C:\Users\Carl Johan Maychrzak\source\repos\TestOfCloning\TestafRepoProject\TestafRepoProject\bin\Debug\net6.0\TestafRepoProject.pdb
+C:\Users\Carl Johan Maychrzak\source\repos\TestOfCloning\TestafRepoProject\TestafRepoProject\obj\Debug\net6.0\TestafRepoProject.csproj.AssemblyReference.cache
+C:\Users\Carl Johan Maychrzak\source\repos\TestOfCloning\TestafRepoProject\TestafRepoProject\obj\Debug\net6.0\TestafRepoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carl Johan Maychrzak\source\repos\TestOfCloning\TestafRepoProject\TestafRepoProject\obj\Debug\net6.0\TestafRepoProject.AssemblyInfoInputs.cache
+C:\Users\Carl Johan Maychrzak\source\repos\TestOfCloning\TestafRepoProject\TestafRepoProject\obj\Debug\net6.0\TestafRepoProject.AssemblyInfo.cs
+C:\Users\Carl Johan Maychrzak\source\repos\TestOfCloning\TestafRepoProject\TestafRepoProject\obj\Debug\net6.0\TestafRepoProject.csproj.CoreCompileInputs.cache
+C:\Users\Carl Johan Maychrzak\source\repos\TestOfCloning\TestafRepoProject\TestafRepoProject\obj\Debug\net6.0\TestafRepoProject.dll
+C:\Users\Carl Johan Maychrzak\source\repos\TestOfCloning\TestafRepoProject\TestafRepoProject\obj\Debug\net6.0\refint\TestafRepoProject.dll
+C:\Users\Carl Johan Maychrzak\source\repos\TestOfCloning\TestafRepoProject\TestafRepoProject\obj\Debug\net6.0\TestafRepoProject.pdb
+C:\Users\Carl Johan Maychrzak\source\repos\TestOfCloning\TestafRepoProject\TestafRepoProject\obj\Debug\net6.0\TestafRepoProject.genruntimeconfig.cache
+C:\Users\Carl Johan Maychrzak\source\repos\TestOfCloning\TestafRepoProject\TestafRepoProject\obj\Debug\net6.0\ref\TestafRepoProject.dll
